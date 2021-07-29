@@ -1,11 +1,11 @@
-#Notas:
-Este es mi primer programa en node:
+# Notas:
+Este es mi primer programa en Node:
 
 ```
 Opciones:
       --help         Muestra ayuda                                    [booleano]
-      --version      Muestra número de versión                        [booleano]
-  -b, --base         Es la base de la tabla de multiplicar  [número] [requerido]
-      --to, --hasta  Maximo valor a multiplicar                         [número]
+      --version      Muestra nÃºmero de versiÃ³n                        [booleano]
+  -b, --base         Es la base de la tabla de multiplicar  [nÃºmero] [requerido]
+      --to, --hasta  Maximo valor a multiplicar                         [nÃºmero]
   -l, --listar       Muestra el resultado de la tabla[booleano] [defecto: false]
-  ```
+ ```
